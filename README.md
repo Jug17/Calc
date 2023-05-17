@@ -31,7 +31,6 @@
 <button data-equals class="Clear">=</button>
 <button data-operation>Int</button>
 <div class="popup" onclick="myFunction()">Aide<span class="popuptext" id="myPopup">Pour le Bmi:<br> 1. premier numero est ton poids en kg<br> 2. puis tu click "BMI" et ajouter ton hauteur en M. <br> Pour l'exponant:<br> 1. tu met le numero que tu veut en exposant en premier <br> 2.puis click "^" et ajoute le numero que tu veut multiplier par ce exposant.<br> Pour Interet: <br> 1. Tu met largent que tu as dans ton compte épargne<br> 2. Puis click le "Int" et ajoute combien d'anne ca va te doner l'interet moyenne</span></div>
-</div>
-</div>
+  </div>
 
 </body>
