@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+
 <head>
 <script src="CalcCode.js" defer></script>
 <link rel="stylesheet" href="CalcStyle.css"/>
